@@ -1,9 +1,12 @@
-# telas-do-projeto
-Telas do Projeto Sistema de Gestão para Pizzaria
+# Telas do projeto: Sistema de Gestão para Pizzaria 🍕
+Este repositório contém apenas os arquivos estáticos do projeto para **visualização**. Algumas funcionalidades como botões e interações podem não funcionar corretamente aqui pois o projeto foi projetado para ser executado em um ambiente Docker banco de dados e etc.
 
-Click no link para ver as páginas
+### Link do projeto: https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria
 
-### Páginas
+
+## 📄 Páginas para Vizualição
+**Click no link para ver cada página**
+
 #### Cliente:
 - [Home](https://keven-costa.github.io/telas-do-projeto/resources/static/index)
 
@@ -27,3 +30,22 @@ Click no link para ver as páginas
 
 - [Painel de Promoções](https://keven-costa.github.io/telas-do-projeto/resources/templates/admin/painel-promocoes)
 
+## 📷 Imagens
+
+![Texto alternativo](imagens-das-telas/tela1.png)
+![Texto alternativo](imagens-das-telas/tela1-2.png)
+![Texto alternativo](imagens-das-telas/tela2.png)
+![Texto alternativo](imagens-das-telas/tela3.png)
+![Texto alternativo](imagens-das-telas/tela4.png)
+![Texto alternativo](imagens-das-telas/tela5.png)
+![Texto alternativo](imagens-das-telas/tela6.png)
+![Texto alternativo](imagens-das-telas/tela7.png)
+
+
+<details>
+  <summary>📌 Clique aqui para ver o texto oculto</summary>
+  
+  **Este é o conteúdo que será mostrado quando clicado!**  
+  - Você pode usar *Markdown* aqui.  
+  - Incluir listas, `códigos`, etc.  
+</details>
