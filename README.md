@@ -41,11 +41,3 @@ Este repositório contém apenas os arquivos estáticos do projeto para **visual
 ![Texto alternativo](imagens-das-telas/tela6.png)
 ![Texto alternativo](imagens-das-telas/tela7.png)
 
-
-<details>
-  <summary>📌 Clique aqui para ver o texto oculto</summary>
-  
-  **Este é o conteúdo que será mostrado quando clicado!**  
-  - Você pode usar *Markdown* aqui.  
-  - Incluir listas, `códigos`, etc.  
-</details>
