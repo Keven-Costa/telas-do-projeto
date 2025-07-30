@@ -32,19 +32,19 @@ Este repositório contém apenas os arquivos estáticos do projeto para **visual
 
 ## 📷 Imagens
 
-![Texto alternativo](imagens-das-telas/tela1.png)
+![Tela1 ](imagens-das-telas/tela1.png)
 
-![Texto alternativo](imagens-das-telas/tela1-2.png)
+![Tela 2](imagens-das-telas/tela1-2.png)
 
-![Texto alternativo](imagens-das-telas/tela2.png)
+![Tela 3](imagens-das-telas/tela2.png)
 
-![Texto alternativo](imagens-das-telas/tela3.png)
+![Tela 4](imagens-das-telas/tela3.png)
 
-![Texto alternativo](imagens-das-telas/tela4.png)
+![Tela 5](imagens-das-telas/tela4.png)
 
-![Texto alternativo](imagens-das-telas/tela5.png)
+![Tela 6](imagens-das-telas/tela5.png)
 
-![Texto alternativo](imagens-das-telas/tela6.png)
+![Tela 7](imagens-das-telas/tela6.png)
 
-![Texto alternativo](imagens-das-telas/tela7.png)
+![Tela 8](imagens-das-telas/tela7.png)
 
